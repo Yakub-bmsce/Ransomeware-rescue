@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "floci": {
+      "source": "floci-io/floci-cli",
+      "commit": "0a4faaf71d31ee7cc458d07b952fcc15d48c0319",
+      "sourceType": "github",
+      "skillPath": "skills/floci/SKILL.md",
+      "computedHash": "184a2f873fdfb6e125a57d1fa0c75f81d2b19b70959492d9d46007930d308e92"
+    }
+  }
+}
